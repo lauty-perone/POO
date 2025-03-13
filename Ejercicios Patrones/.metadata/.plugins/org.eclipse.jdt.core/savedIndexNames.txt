@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\lauty\Desktop\Escritorio\INFORMATICA\OO2\Ejercicios Patrones\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index

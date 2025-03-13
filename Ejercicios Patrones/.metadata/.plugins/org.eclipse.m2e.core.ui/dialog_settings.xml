@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\lauty\Desktop\Escritorio\INFORMATICA\OO2\Ejercicios Patrones\ParcialTareas"/>
+			<item value="C:\Users\lauty\Desktop\Escritorio\INFORMATICA\OO2\Ejercicios Patrones\Ejercicio16_EstacionMeterologica"/>
+			<item value="C:\Users\lauty\Desktop\Escritorio\INFORMATICA\OO2\Ejercicios Patrones"/>
+			<item value="C:\Users\lauty\Desktop\Escritorio\INFORMATICA\OO2\ParcialesPatrones\ParcialSeguros"/>
+			<item value="C:\Users\lauty\Desktop\Escritorio\INFORMATICA\OO2\ParcialesPatrones"/>
+			<item value="C:\Users\lauty\Desktop\Escritorio\INFORMATICA\OO2\Ejercicios Patrones\Ejercicio17"/>
+			<item value="C:\Users\lauty\Desktop\Escritorio\INFORMATICA\OO2\Ejercicios Patrones\Ejercicio16"/>
+			<item value="C:\Users\lauty\Desktop\Escritorio\INFORMATICA\OO2\Ejercicios Patrones\Ejercicio15"/>
+			<item value="C:\Users\lauty\Desktop\Escritorio\INFORMATICA\OO2\Ejercicios Patrones\Ejercicio14"/>
+			<item value="C:\Users\lauty\Desktop\Escritorio\INFORMATICA\OO2\Ejercicios Patrones\Ejercicio12"/>
+			<item value="C:\Users\lauty\Downloads\biblioteca\ej-biblioteca"/>
+			<item value="C:\Users\lauty\Desktop\Escritorio\INFORMATICA\OO2\Ejercicios Patrones\Ejercicio11"/>
+			<item value="C:\Users\lauty\Desktop\Escritorio\INFORMATICA\OO2\Ejercicios Patrones\objetos-dos"/>
+			<item value="C:\Users\lauty\Desktop\Escritorio\INFORMATICA\OO2\Ejercicios Patrones\Ejercicio9"/>
+			<item value="C:\Users\lauty\Desktop\Escritorio\INFORMATICA\OO2\Ejercicios Patrones\Ejercicio8"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="defaultLocal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="ar.edu.unlp.info.oo2.ParcialRefactoring"/>
+			<item value="ar.edu.unlp.info.oo2.ParcialTareas"/>
+			<item value="ar.edu.unlp.info.oo2.ParcialEstacionMeterologica"/>
+			<item value="ar.edu.unlp.info.oo2.ParcialExcursiones"/>
+			<item value="ar.edu.unlp.info.oo2.ParcialSeguros"/>
+			<item value="ar.edu.unlp.info.oo2.TrabajoPracticoRefactoring"/>
+			<item value="ar.edu.unlp.info.oo2.Ejercicio19_PersonajesRol"/>
+			<item value="ar.edu.unlp.info.oo2.Ejercicio18"/>
+			<item value="ar.edu.unlp.info.oo2.Ejercicio17"/>
+			<item value="ar.edu.unlp.info.oo2.Ejercicio16"/>
+			<item value="ar.edu.unlp.info.oo2.Ejercicio15"/>
+			<item value="ar.edu.unlp.info.oo2.Ejercicio14"/>
+			<item value="ar.edu.unlp.info.oo2.Ejercicio13"/>
+			<item value="ar.edu.unlp.info.oo2.Ejercicio12"/>
+		</list>
+		<list key="groupId">
+			<item value="ar.edu.unlp.info.oo2 "/>
+		</list>
+		<list key="artifactId">
+			<item value="ParcialRefactoring"/>
+			<item value="ParcialTareas"/>
+			<item value="ParcialEstacionMeterologica"/>
+			<item value="ParcialExcursiones"/>
+			<item value="ParcialSeguros"/>
+			<item value="TrabajoPracticoRefactoring"/>
+			<item value="Ejercicio19_PersonajesRol"/>
+			<item value="Ejercicio18"/>
+			<item value="Ejercicio17"/>
+			<item value="Ejercicio16"/>
+			<item value="Ejercicio15"/>
+			<item value="Ejercicio14"/>
+			<item value="Ejercicio13"/>
+			<item value="Ejercicio12"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+			<item value="0.0.2"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+		<list key="archetypeGroupId">
+			<item value="ar.edu.unlp.info.oo2"/>
+		</list>
+		<list key="archetypeArtifactId">
+			<item value="objetos-dos"/>
+		</list>
+		<list key="archetypeVersion">
+			<item value="0.0.2"/>
+		</list>
+		<list key="repositoryUrl">
+			<item value="https://github.com/unlp-info-objetos/oo2-2022/blob/main/oo2_archetype-archetype-0.0.2/oo2_archetype-archetype-0.0.2.jar?raw=true"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\lauty\Desktop\Escritorio\INFORMATICA\OO2\Ejercicio Refactoring\ejercicio_refactoring"/>
+			<item value="C:\Users\lauty\Downloads\accesobd\accesobd"/>
+			<item value="C:\Users\lauty\Downloads\biblioteca\ej-biblioteca"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

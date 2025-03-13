@@ -1,0 +1,29 @@
+package ar.edu.unlp.info.oo2.Ejercicio6;
+
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+public class TopografíaTest {
+	
+	private TopografíaMixta mixta1;
+	private TopografíaMixta mixta2;
+
+	@BeforeEach
+	void setUp() throws Exception {
+		this.mixta1 = new TopografíaMixta();
+		mixta1.agregarTopografia(new Agua());
+		mixta1.agregarTopografia(new Tierra());
+		mixta1.agregarTopografia(new Tierra());
+		mixta1.agregarTopografia(new Agua());
+		
+		this.mixta2 = new TopografíaMixta();
+		mixta2.agregarTopografia(new Agua());
+		mixta2.agregarTopografia(new Tierra());
+		mixta2.agregarTopografia(new Tierra());
+		mixta2.agregarTopografia(mixta1);
+		
+	}
+}
